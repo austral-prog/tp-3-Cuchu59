@@ -3,7 +3,7 @@ def slice_simple():
     texto_low = texto.lower()
     print(texto_low[0:3])
     print(texto_low[2:5])
-    print(texto[0:4] + texto[4:7])
+    print(texto[0:4] + texto[4:7]) # print(texto)  tambien funciona jeje
 
 
 # Para verificar este ejercicio ejecutar el comando
